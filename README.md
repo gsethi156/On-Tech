@@ -1,5 +1,5 @@
 # Aadhaar Voting
-Aadhaar Based voting system using blockchain technol
+Aadhaar Based voting system using blockchain technology
 
 ## Description
 
