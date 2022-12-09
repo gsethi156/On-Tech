@@ -6,7 +6,7 @@
   "dependencies": {
     "cookie-parser": "^1.4.5",
     "ethereumjs-testrpc": "^6.0.3",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "morgan": "^1.9.0",
     "password-hash": "^1.2.2",
     "request": "^2.88.2",
